@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420" viewBox="0 0 420 420">
+<rect width="420" height="420" fill="#f7f4ed"/>
+<rect x="24" y="24" width="372" height="372" fill="none" stroke="#9b9387" stroke-width="2"/>
+<text x="210" y="185" font-size="30" text-anchor="middle" fill="#6d665d" font-family="serif">QR CODE</text>
+<text x="210" y="225" font-size="16" text-anchor="middle" fill="#8b8175" font-family="serif">公開URL発行後に差し替え</text>
+</svg>
